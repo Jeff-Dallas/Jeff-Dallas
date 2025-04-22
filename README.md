@@ -2,7 +2,7 @@
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Stevebastardon)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eujeffdallas)
-![Jeff-Dallas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jef-Dallas&show_icons=true&theme=radical)
+![Jeff-Dallas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeff-Dallas&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
 
